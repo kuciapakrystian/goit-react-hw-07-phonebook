@@ -1,6 +1,7 @@
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="75"/>
+
 # **Async Redux CRUD Phonebook App**
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
 ## Description
 
